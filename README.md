@@ -15,7 +15,7 @@ This repository hosts Power BI dashboards for AsanBar, updated to include busine
 3. Configure data sources as needed (details to be added).
 
 ## Data
-- Source: [To be specified based on your data]
+- Source: Main database and CSV files.
 - Sample data included in the dashboard.
 
 ## Results
